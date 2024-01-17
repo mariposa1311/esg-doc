@@ -1,0 +1,8 @@
+site_name: Documentation ESG
+site_url: https://documentation-esg.com/
+
+nav:
+  - Home: index.md
+  - Standards: standards.md
+
+theme: readthedocs
