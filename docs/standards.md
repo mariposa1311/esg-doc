@@ -1,17 +1,43 @@
-# Welcome to MkDocs
+# Standards de Reporting et Accords Mondiaux
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Accords mondiaux
 
-## Commands
+### Kunming-Montreal Global Biodiversity Framework (GBF) - 2022
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Standards de reporting
 
-## Project layout
+| Nom du Standard                                                               | Scope                                       | Source |
+| ----------------------------------------------------------------------------- | ------------------------------------------- | ------ |
+| <a href = "https://www.ifrs.org/issued-standards/" target = "_blank">IFRS <a> |                                             | IFRS   |
+| <a href = "https://sasb.org" target = "_blank">SASB </a>                      | Matérialité financière, industry spécifique | ISSB   |
+| <a href = "https://www.globalreporting.org/" target = "_blank">GRI</a>        | Impact                                      | GRI    |
+| <a href = "https://www.efrag.org/" target = "_blank">ESRS</a>                 | CSRD / UE                                   | EFRAG  |
+| <a href="https://tnfd.global" target="_blank">TNFD</a>                        | Nature-Related risks and opportunities      | TNFD   |
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### IFRS
+
+#### IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information
+
+#### IFRS S2 Climate-Related Disclosures
+
+### SASB
+
+### GRI
+
+### ESRS
+
+#### ESRS 1 : General Requirements
+
+#### ESRS 2 : General Disclosures
+
+### TNFD
+
+## Normes
+
+### ISO 26000
+
+### ISO 14001
+
+## Méthodologies
+
+### Bilans Carbone

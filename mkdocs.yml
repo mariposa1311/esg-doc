@@ -4,5 +4,9 @@ site_url: https://documentation-esg.com/
 nav:
   - Home: index.md
   - Standards: standards.md
+  - Droit Français: droit-francais.md
+  - Politique Française: politique-francaise.md
+  - Réglementation Européenne: regulation-europeenne.md
+  - Lexique et Concepts: lexique-concepts.md
 
 theme: readthedocs
