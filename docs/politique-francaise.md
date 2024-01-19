@@ -52,7 +52,7 @@
 
 #### Réduire les pressions qui s'exercent sur la biodiversité
 
-##### Réduire les pressions directes
+1- Réduire les pressions directes
 
 | Mesure                                              | Mesures clés / Cibles quantitatives                                                                                                                                                                                                                         |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -68,17 +68,54 @@
 | Espèces exotiques envahissantes                     | <ul><li>-50% d'introductions d'EEE</li><li>plus de contrôles et de surveillance</li></ul>                                                                                                                                                                   |
 | Actions de police                                   | <ul><li>100% départments avec comité opérationnel de lutte contre la délinquance environnementale - COLDEN</li><li>100% de suites administratives sur les non conformités en 2024</li></ul>                                                                 |
 
-##### Accompagner les secteurs prioritaires dans la réduction de leur impact
+2- Accompagner les secteurs prioritaires dans la réduction de leur impact
 
-| Mesure           | Mesures clés / Cibles quantitatives            |
-| ---------------- | ---------------------------------------------- |
-| Secteur agricole | plans de gestion en faveurs de la biodiversité |
-
-|
+| Mesure                       | Mesures clés / Cibles quantitatives                                                                                                                                                                                                                                         |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Secteur agricole             | <ul><li>21% surface agricole utile (SAU) en agriculture biologique</li><li>50 000 exploitations certifiées Haute Valeur Environnementale</li><li>65% SAU en biocontrôle</li><li>Plantation de légumineuses</li><li>Paiements pour services environnementaux (PSE)</li></ul> |
+| Secteur de la pêche          | <ul><li>sites Natura 2000</li><li>Projets R&D</li></ul>                                                                                                                                                                                                                     |
+| Aquaculture                  | production algocole de 1000 tonnes / an en 2030                                                                                                                                                                                                                             |
+| Infrastructures énergétiques | <ul><li>50 millions € d'ici 2025 pour observatoire de l'éolien de mer</li><li>cartographie des zones d'accélération terrestre d'ici 2024</li><li>-15% projets de méthanisation alimentés avec culture destinées à l'alimentation</li></ul>                                  |
+| Construction                 | <ul><li>publication d'un guide</li><li>meilleure formation en école d'ingénieur</li><li>amélioration utilisation de matériaux biosourcés</li></ul>                                                                                                                          |
+| Transport                    | <ul><li>100% linéaire avec plan de gestion en 2026</li><li>75% des linéaires en faveur des pollinisateurs en 2030</li><li>100% linéaire avec plan de gestion espèces exotiques en 2026</li></ul>                                                                            |
+| Culture, Tourisme, Sport     | Chartes, labels, tableau de bord                                                                                                                                                                                                                                            |
 
 #### Restaurer la biodiversité dégradée partout où c'est possible
 
-#### Engager tous les acteurs
+| Mesure                                         | Description / Cibles clé                                                                                                                                                                                                   |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Renforcer cadre réglementaire européen         | Loi de restauration UE                                                                                                                                                                                                     |
+| Trames écologiques                             | <ul><li>100% des points noirs résorbés d'ici 2030</li><li>Chiffrer la fragmentation</li><li>Trames noires / -50% pollution lumineuse</li></ul>                                                                             |
+| Ramener la nature en ville                     | <ul><li>100ha/an renaturés subventionnés d'ic 2027</li><li>m² désimperméabilisés</li></ul>                                                                                                                                 |
+| Résilience des écosystèmes forestiers          | <ul><li>1 million d'arbres plantés sur la décennie</li><li>Paiements pour services écosystémiques</li><li>100% forêts subnaturelles protégées</li><li>Plan national vieux bois</li></ul>                                   |
+| Favoriser les haies                            | +50 000 km en 2030                                                                                                                                                                                                         |
+| Maintenir et restaurer les prairies naturelles | <ul><li>Documentation des services écosystémiques</li><li>Déploiement label aaérobio</li></ul>                                                                                                                             |
+| Restaurer les zones humides                    | <ul><li>50000ha restaurés entre 2022 et 2026</li><li style="color:darkred;"> Nouveau plan Génie écologique des milieux aquatiques et humides</li></ul>                                                                     |
+| Protéger et restaurer nos sols                 | <ul><li>Législation UE</li><li>Développement des connaissances et partage des données</li></ul>                                                                                                                            |
+| Protection et inverser le déclin des espèces   | <ul><li>100% liste rouge mise à jour</li><li>>20 nouveaux parcs nationaux d'ici 2030</li><li>Cohabitation grands prédateurs - nouveau PNA loups</li><li>Mortalité accidentelle (en particulier cétacés, tortues)</li></ul> |
+
+#### Mobiliser tous les acteurs
+
+| Mesure                                                       | Description / Cibles clé                                                                                                                            |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Exemplarité de l'Etat et de ses services                     | <ul><li>0 produit phytosanitaire dès 2023</li><li>100% préfectures et sous-préfectures labellisés EcoJardin</li><li>...</li></ul>                   |
+| Intégrer approche One Health dans politiques                 | <ul><li>surveillance de la santé des animaux sauvages</li><li>Amélioration connaissance et formation</li></ul>                                      |
+| Déployer la planification territoriale                       | <ul><li>Mieux gérer les enjeux de la biodiversité</li><li>Atlas de la Biodiversité</li><li>Leviers des collectivités</li></ul>                      |
+| Accompagner les entreprises                                  | <ul><li>CSRD</li><li>Programme "engagés pour la nature"</li><li>Extension méthodologie ACT de l'ADEME</li><li>Feuille de route BPI France</li></ul> |
+| Renforcer prise en compte de la biodiversité dans les labels | <ul><li>affichage environnemental</li><li>projet directive Green Claims</li><li>Amélioration des labels existants</li></ul>                         |
+| Mobiliser, sensibiliser, informer                            |                                                                                                                                                     |
+| Eduquer de l'école à l'université                            |                                                                                                                                                     |
+| Promouvoir les métiers qui contribuent à la biodiv           |
+
+#### Les Moyens d'atteindre ses ambitions
+
+| Mesure                                                              | Description / Cibles clé                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Développer et valoriser la connaissance de la biodiversité          | <ul><li>Soutenir la recherche</li><li>Réseaux de surveillance de la biodiversité</li><li>Consolider systèmes d'information</li></ul>                                                                                                                                                                                                                                              |
+| Mobiliser les financements publics et réduire dépenses dommageables | <ul><li> Premier diagnostic en 2023</li><li> plan pluri-annuel pour supprimer les dépenses dommageables</li></ul>                                                                                                                                                                                                                                                                 |
+| Restaurer la biodiversité à l'étranger                              | <ul><li>30% des financements climat de l'AFD</li><li style="color:darkred;">Publication méthodologie de comptabilisation des financements de la biodiversité d'ici 2024</li></ul>                                                                                                                                                                                                 |
+| Mobiliser les Finances Privées                                      | <ul><li> Systématiser reporting biodiversité</li><li>Evolution du label Bas Carbone</li><li> Evolution des produits d'Epargne</li><li style="color:darkred;">Faciliter engagement volontaire des entreprises pour restaurer la biodiversité - création du dispositif SNRR à Q2 2024 (Sites Naturels de restauration et de renaturation)</li><li>Loto de la biodiversité</li></ul> |
+| Gouvernance de suivi de la SNB interministérielle                   | tableau de pilotage et reporting annuel                                                                                                                                                                                                                                                                                                                                           |
 
 ### Plan National Milieux Humides 2022-2026
 
