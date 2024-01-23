@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Welcome to ESG Doc
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Ce site est une compilation de documents, liens internet, utiles pour traiter des thématiques environnementales, sociales et de gouvernance (ESG) pour les entreprises et pour les institutions financières.
 
-## Commands
+Le site n'a pas vocation à un utilisé par un tier, et des raccourcis sont faits qui peuvent donner une image erronée de certaines thématiques.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Les liens vers les sources primaires de documentation est tout ce qui devrait utilisé dans ce site.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+NB : aucune contribution acceptée, merci de ne pas faire de pull request.
