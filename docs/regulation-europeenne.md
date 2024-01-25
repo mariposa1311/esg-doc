@@ -67,6 +67,8 @@ Elargissement du pool d'entreprises concernées par la publication non-financiè
 Les microentreprises ne sont pas concernées
 Doit inclure les plans de réduction des gaz à effet de serre à horizons 2030 et 2050.
 
+Les articles 19 bis et 29 bis donnent un aperçu des informations que les entreprises doivent publier (avec ou sans consolidation). Des <a href = "https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32023R2772" target="_blank">actes délégués</a> sont pris pour préciser l'information et l'aligner sur les normes ESRS (Annexes I et II du delegated act).
+
 ### SFDR - Règlement (UE) 2019/2088 du parlement européen et du Conseil du 27 novembre 2019 sur la publication d'informations en matière de durabilité dans le secteur des services financiers [ <a href = "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32019R2088" target = "_blank"> lien sur EUR-lex</a>]
 
 | Article | Contenu                                                                                                                                                                                  |
